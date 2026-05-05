@@ -13,6 +13,7 @@
 [![vacs-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JYang365/sectorfile-fasa/main/.github/badges/vacs.json)](https://github.com/vacs-project/vacs)
 [![vch-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JYang365/sectorfile-fasa/main/.github/badges/vCH.json)](https://github.com/DrFreas/VCH)
 [![vfpc-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JYang365/sectorfile-fasa/main/.github/badges/vFPC.json)](https://github.com/hpeter2/VFPC)
+[![test-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JYang365/sectorfile-fasa/main/.github/badges/test.json)](https://github.com/JYang365/a32nx)
 
 ## Introduction
 
