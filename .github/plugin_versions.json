@@ -9,7 +9,7 @@
   "DiscordEuroscope": {
     "schemaVersion": 1,
     "label": "DiscordEuroscope",
-    "message": "1.10",
+    "message": "1.1.0",
     "color": "blue",
     "repo": "Kirollos/DiscordEuroscope"
   },
@@ -65,7 +65,7 @@
   "vacs": {
     "schemaVersion": 1,
     "label": "vacs",
-    "message": "2.3.0",
+    "message": "acs-client-v2.3.0",
     "color": "blue",
     "repo": "vacs-project/vacs"
   },
@@ -86,7 +86,7 @@
   "test": {
     "schemaVersion": 1,
     "label": "test",
-    "message": "1.0.0",
+    "message": "3.6.5",
     "color": "blue",
     "repo": "JYang365/a32nx"
   }
